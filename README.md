@@ -1,4 +1,4 @@
-# Online-courses
+# Coursera-courses
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -22,7 +22,7 @@
 </ol>
 
 
-<p align="right"><a href="#online-courses">[Back to top]</a></p>
+<p align="right"><a href="#coursera-courses">[Back to top]</a></p>
 
 ## Other Courses
 <ol type="1">
@@ -31,7 +31,7 @@
     
 </ol>
 
-<p align="right"><a href="#online-courses">[Back to top]</a></p>
+<p align="right"><a href="#coursera-courses">[Back to top]</a></p>
 
 ## Guided Projects
 <ol type="1">
@@ -40,7 +40,7 @@
     <li>Facial Expression Recognition with PyTorch | (<a href="https://coursera.org/share/826ad5840d920c1cc71c9c14cc656bea">certificate</a>)</li>
 </ol>
 
-<p align="right"><a href="#online-courses">[Back to top]</a></p>
+<p align="right"><a href="#coursera-courses">[Back to top]</a></p>
 
 ## Folder Structure
 
@@ -59,4 +59,4 @@
 │   ├───Facial Expression Recognition with PyTorch
 ```
 
-<p align="right"><a href="#online-courses">[Back to top]</a></p>
+<p align="right"><a href="#coursera-courses">[Back to top]</a></p>

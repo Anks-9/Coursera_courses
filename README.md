@@ -34,7 +34,6 @@
 <p align="right"><a href="#online-courses">[Back to top]</a></p>
 
 ## Guided Projects
-Go to [guided projects](https://github.com/Anks-9/Coursera_courses/tree/main/Guided-Project) folder.
 <ol type="1">
     <li>Deep Learning with PyTorch: Image Segmentation| (<a href="https://coursera.org/share/c75d11d895fc67273ac3a84848297d8e">certificate</a>)</li>
     <li>Aerial Image Segmentation with PyTorch | (<a href="https://coursera.org/share/51678e5e29d1f7a53be0e15ea5a45827">certificate</a>)</li>

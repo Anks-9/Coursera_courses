@@ -2,6 +2,9 @@
 
 Here the present dataset in this repo is the subset(200 images and its masks) of the original dataset (Massachusetts Roads Dataset) consists of 1171 aerial images of the state of Massachusetts. Each image is 1500×1500 pixels in size, covering an area of 2.25 square kilometers
 
+# Dataset Used
+[Human Segmentation Dataset](https://github.com/VikramShenoy97/Human-Segmentation-Dataset) by Vikram Shenoy.
+
 # Full Dataset 
 
 https://www.cs.toronto.edu/~vmnih/data/

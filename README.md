@@ -22,7 +22,7 @@
 </ol>
 
 
-<p align="right"><a href="#coursera-courses">[Back to top]</a></p>
+<p align="right"><a href="#online-courses">[Back to top]</a></p>
 
 ## Other Courses
 <ol type="1">
@@ -31,7 +31,7 @@
     
 </ol>
 
-<p align="right"><a href="#coursera-courses">[Back to top]</a></p>
+<p align="right"><a href="#online-courses">[Back to top]</a></p>
 
 ## Guided Projects
 Go to [guided projects](https://github.com/Anks-9/Coursera_courses/tree/main/Guided-Project) folder.
@@ -41,7 +41,7 @@ Go to [guided projects](https://github.com/Anks-9/Coursera_courses/tree/main/Gui
     <li>Facial Expression Recognition with PyTorch | (<a href="https://coursera.org/share/826ad5840d920c1cc71c9c14cc656bea">certificate</a>)</li>
 </ol>
 
-<p align="right"><a href="#coursera-courses">[Back to top]</a></p>
+<p align="right"><a href="#online-courses">[Back to top]</a></p>
 
 ## Folder Structure
 
@@ -50,8 +50,14 @@ Go to [guided projects](https://github.com/Anks-9/Coursera_courses/tree/main/Gui
 ├───Deep-Learning-Specialization
 │   ├───Neural-Networks-and-Deep-Learnings
 │   ├───Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization
+|
 └───Other courses
+│   ├───Math and Statistics For AI, Data Science
+|
 └───Guided-Project
+│   ├───Deep Learning with PyTorch: Image Segmentation
+│   ├───Aerial Image Segmentation with PyTorch
+│   ├───Facial Expression Recognition with PyTorch
 ```
 
-<p align="right"><a href="#coursera-courses">[Back to top]</a></p>
+<p align="right"><a href="#online-courses">[Back to top]</a></p>

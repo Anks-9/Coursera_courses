@@ -18,24 +18,25 @@ Instructor: Professor [Andrew Ng](https://www.andrewng.org/). All Lecture Slides
 ```shell
 .
 ├───Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization
-│   ├───Lecture notes
-|   ├───Assignment C_2
+│   ├───Assignment C_2
 │       └───W1A1 - Initialization
 │       └───W1A2 - Regularization
 │       └───W1A3 - Gradient Checking
 │       └───W2A1 - Optimization Methods
 │       └───W3A1 - TensorFlow Introduction
-
-├───Neural-Networks-and-Deep-Learning
 │   ├───Lecture notes
-│   ├───Extra resources
-│   ├───Course Notation Sheet
+│
+├───Neural-Networks-and-Deep-Learning
 │   ├───Assignment C-1
 │       └───W2A1 - Logistic Regression with a Neural Network Mindset
 │       └───W2A2 - Python Basics with Numpy
 │       └───W3A1 - Planar Data Classification with One Hidden Layer
 │       └───W4A1 - Building your Deep Neural Network Step by Step
-|       └───W4A2 - Deep Neural Network - Application
+│       └───W4A2 - Deep Neural Network - Application
+│   ├───Course Notation Sheet
+│   ├───Extra resources
+│   ├───Lecture notes
+
 
 ```
 

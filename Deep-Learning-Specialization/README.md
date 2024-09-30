@@ -7,7 +7,7 @@ Instructor: Professor [Andrew Ng](https://www.andrewng.org/). All Lecture Slides
 ## Courses:
 
 1. Neural Networks and Deep Learning ([certificate](https://coursera.org/share/875443d727265a3f3cc83af40cb15635) | [assignments](https://github.com/Anks-9/Coursera_courses/tree/main/Deep-Learning-Specialization/Neural-Networks-and-Deep-Learning/Assignment%20C-1))
-2. Improving Deep Neural Networks Hyperparameter Tuning Regularization and Optimization ([]() | [assignments](https://github.com/Anks-9/Coursera-courses/tree/main/Deep-Learning-Specialization/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization))
+2. Improving Deep Neural Networks Hyperparameter Tuning Regularization and Optimization ([Ongoing]() | [assignments](https://github.com/Anks-9/Coursera_courses/tree/main/Deep-Learning-Specialization/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/Assignment%20C_2))
 
 *Note*:
 * Files in this part cannot run locally since they use packages from Coursera's system. Code here is just to save for later review

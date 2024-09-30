@@ -38,6 +38,7 @@
     <li>Deep Learning with PyTorch: Image Segmentation| (<a href="https://coursera.org/share/c75d11d895fc67273ac3a84848297d8e">certificate</a>)</li>
     <li>Aerial Image Segmentation with PyTorch | (<a href="https://coursera.org/share/51678e5e29d1f7a53be0e15ea5a45827">certificate</a>)</li>
     <li>Facial Expression Recognition with PyTorch | (<a href="https://coursera.org/share/826ad5840d920c1cc71c9c14cc656bea">certificate</a>)</li>
+     <li>Deep Learning with PyTorch: Object Localization | (<a href="https://coursera.org/share/fcc28d692451bfb5b49d4bbfc4137b96">certificate</a>)</li>
 </ol>
 
 <p align="right"><a href="#coursera-courses">[Back to top]</a></p>
@@ -57,6 +58,9 @@
 │   ├───Deep Learning with PyTorch: Image Segmentation
 │   ├───Aerial Image Segmentation with PyTorch
 │   ├───Facial Expression Recognition with PyTorch
+│   ├───Deep Learning with PyTorch: Object Localization
+
+
 ```
 
 <p align="right"><a href="#coursera-courses">[Back to top]</a></p>

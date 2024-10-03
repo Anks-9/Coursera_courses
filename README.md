@@ -15,7 +15,7 @@
         <summary markdown="span">Deep Learning Specialization </summary>
         <ol type="a">
             <li>Neural Networks and Deep Learning | (<a href="https://coursera.org/share/875443d727265a3f3cc83af40cb15635">certificate</a>)</li>
-            <li>Improving Deep Neural Networks Hyperparameter Tuning Regularization and Optimization | (<a herf="https://coursera.org/share/1fb3a4763da971bf5889ea738688a53f">certificate</a>)</li>
+            <li>Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization | (<a herf="https://coursera.org/share/1fb3a4763da971bf5889ea738688a53f">certificate</a>)</li>
              <li>Structuring Machine Learning Projects | (<a herf="">ongoing</a>)</li>
         </ol>
     </details>
